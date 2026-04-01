@@ -1,0 +1,15 @@
+{
+    "name": "Custom Effects",
+    "description": "",
+    "authors": [
+      {
+        "name": "SerStars",
+        "id": "861631850681729045"
+      }
+    ],
+    "main": "/index.tsx",
+    "vendetta": {
+      "icon": "ic_chat_bubble_32px"
+    }
+  }
+  

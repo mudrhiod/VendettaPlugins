@@ -1,7 +1,14 @@
-# Vendetta Plugins Template
-This repo contains a template for creating [Vendetta](https://github.com/vendetta-mod/Vendetta) plugins.
+# Revenge Plugins
+
+Collection of my Revenge Plugins
 
 # How to install?
-Paste a plugin URL into the Plugins page of Vendetta, following a basic format of:
+Paste a plugin URL into the Plugins page of Revenge
 
-https://`YOUR_GITHUB_USERNAME`.github.io/`REPO_NAME`/`PLUGIN_NAME`
+
+### ViewRaw
+ https://bwlok.github.io/revenge-plugins/ViewRaw
+### MoodlesPandas
+https://bwlok.github.io/revenge-plugins/MoodlesPandas
+### Decor
+https://bwlok.github.io/revenge-plugins/Decor
